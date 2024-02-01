@@ -1,0 +1,16 @@
+torch>=2
+torchaudio>=2
+faster-whisper @ git+https://github.com/SYSTRAN/faster-whisper.git@0.10.0
+transformers
+pandas
+setuptools>=65
+nltk
+
+pydub
+torchvision
+python-multipart
+soundfile
+
+requests >= 2.25.0
+fastapi>=0.61.0
+uvicorn>=0.11.1
